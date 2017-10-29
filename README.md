@@ -10,9 +10,9 @@ How to run this app
 ===================
 
 Download from Github:
-	i) Visit the Github repository at: https://github.com/PavlosSakoglou/map
-	ii) Select "Clone or Download" -> Download zip file
-	iii) Extract the contents locally, and open "index.html" in your browser
+	* Visit the Github repository at: https://github.com/PavlosSakoglou/map
+	* Select "Clone or Download" -> Download zip file
+	* Extract the contents locally, and open "index.html" in your browser
 
 
 Description
