@@ -1,7 +1,5 @@
-# Neighborhood Map Project -- Udacity Front-End development 
+Neighborhood Map Project -- Udacity Front-End development 
 =========================================================
-
-Interactive Map website for the city of New York, providing recommendations and highlights, built in JavaScript, HTML, and CSS. The application employs the Google Maps API, the Wikipedia API, and WeatherUnderground JSON API
 
 Student Name: Pavlos Sakoglou
 Chosen Neighborhood: Manhattan, New York City
@@ -10,12 +8,9 @@ How to run this app
 ===================
 
 Download from Github:
-
-	* Visit the Github repository at: https://github.com/PavlosSakoglou/map
-	
-	* Select "Clone or Download" -> Download zip file
-	
-	* Extract the contents locally, and open "index.html" in your browser
+	i) Visit the Github repository at: https://github.com/PavlosSakoglou/map
+	ii) Select "Clone or Download" -> Download zip file
+	iii) Extract the contents locally, and open "index.html" in your browser
 
 
 Description
@@ -29,27 +24,22 @@ message in the header of the page.
 Extra Features
 ==============
 
-* Descriptive header
+1) Descriptive header
 
-* When the user clicks on a marker:
+2) When the user clicks on a marker:
+	2.1) Info window pops up with:
+		2.1.1) Name of the location
+		2.1.2) Website of the location link
+		2.1.3) Street view of the location
+	2.2) Marker becomes green 
 
- 	* Info window pops up with:
-	
-		* Name of the location
-		
-		* Website of the location link
-		
-		* Street view of the location
-		
-	* Marker becomes green 
+3) Weather information is displayed in the bottom of the page 
 
-* Weather information is displayed in the bottom of the page 
+3) Suggestion list next to the map with interactive link-headers 
 
-* Suggestion list next to the map with interactive link-headers 
+4) Search box on the top of the map window
 
-* Search box on the top of the map window
-
-* Reset button on the bottom of the page that resets the zoom and location center of the map to default
+5) Reset button on the bottom of the page that resets the zoom and location center of the map to default
 
 
 Navigation
