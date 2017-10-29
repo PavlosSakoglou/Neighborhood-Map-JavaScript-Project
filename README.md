@@ -10,8 +10,11 @@ How to run this app
 ===================
 
 Download from Github:
+
 	* Visit the Github repository at: https://github.com/PavlosSakoglou/map
+	
 	* Select "Clone or Download" -> Download zip file
+	
 	* Extract the contents locally, and open "index.html" in your browser
 
 
@@ -26,22 +29,27 @@ message in the header of the page.
 Extra Features
 ==============
 
-1) Descriptive header
+* Descriptive header
 
-2) When the user clicks on a marker:
-	2.1) Info window pops up with:
-		2.1.1) Name of the location
-		2.1.2) Website of the location link
-		2.1.3) Street view of the location
-	2.2) Marker becomes green 
+* When the user clicks on a marker:
 
-3) Weather information is displayed in the bottom of the page 
+ 	* Info window pops up with:
+	
+		* Name of the location
+		
+		* Website of the location link
+		
+		* Street view of the location
+		
+	* Marker becomes green 
 
-3) Suggestion list next to the map with interactive link-headers 
+* Weather information is displayed in the bottom of the page 
 
-4) Search box on the top of the map window
+* Suggestion list next to the map with interactive link-headers 
 
-5) Reset button on the bottom of the page that resets the zoom and location center of the map to default
+* Search box on the top of the map window
+
+* Reset button on the bottom of the page that resets the zoom and location center of the map to default
 
 
 Navigation
